@@ -1,0 +1,8 @@
+{
+  "required": false,
+  "minVersion": "0.8.5",
+  "package": "com.fartiqs.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["TitleScreenMixin"],
+  "injectors": {"defaultRequire": 0}
+}
